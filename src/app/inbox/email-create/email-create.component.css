@@ -1,0 +1,7 @@
+.ui.button.primary {
+    margin-bottom: 1rem;
+}
+
+:host {
+    margin: 30px;
+}
